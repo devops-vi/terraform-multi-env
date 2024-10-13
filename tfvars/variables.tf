@@ -23,3 +23,7 @@ variable "tags" {
 
 variable "environment" {
 }
+
+variable "expense" {
+  default = "expense"
+}
